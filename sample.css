@@ -19,10 +19,18 @@ body{
 }
 .name-div{
     flex: 70px;
-    padding-left: 245px;
+    
     font-size: 19px;
     font-family: sans-serif;
     font-weight: bold;
+}
+.logo-div{
+    margin-top: 17px;
+    padding-left: 134px;
+    margin-right: 5px;
+}
+.logo{
+    width: 27px;
 }
 .about{
     flex: 1;
